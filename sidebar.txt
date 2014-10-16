@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bcv:home|Door43 (bcv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bcv|d43-bcv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bcv/archive/master.zip|d43-bcv.zip]]
+
+**Recent Changes**
+{{changes>ns = bcv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bcv|Ethnologue data]]
+
